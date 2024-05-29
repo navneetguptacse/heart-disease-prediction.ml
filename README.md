@@ -53,7 +53,7 @@ The app also provides medical suggestions based on the input parameters. These s
 
 ## Deploy
 
-- For [Streamlit](https://streamlit.io/) visit [here >>>]()
+- For [Streamlit](https://streamlit.io/) visit [here >>>](https://hdps-heartility.streamlit.app/)
 - For [Render](https://render.com/) visit [here >>>](https://heartility.onrender.com/)
 
 ## License
